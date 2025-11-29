@@ -31,3 +31,5 @@ pip install streamlit
 
 ## Run the app
 streamlit run your_app.py
+
+Go to: https://bmicheck.streamlit.app
